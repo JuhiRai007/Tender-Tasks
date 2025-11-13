@@ -1,6 +1,6 @@
 # 📋 Tender Tasks Board
 
-A modern, dark-themed task management board built with [Next.js 14](https://nextjs.org/), TypeScript, and Tailwind CSS. This project was bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+A modern, dark-themed task management board built with [Next.js 16](https://nextjs.org/), TypeScript, and Tailwind CSS. This project was bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 
 ## 🚀 View Live Application 
